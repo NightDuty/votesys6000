@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="votesys6000" uuid="2716e9d5-fe23-435c-835b-644fbe769641">
+      <secret-storage>master_key</secret-storage>
+      <user-name>homestead</user-name>
+      <schema-pattern>votesys6000-1.* votesys6000-2.* votesys6000-3.*</schema-pattern>
+      <default-schemas>votesys6000-1.*</default-schemas>
+    </data-source>
+  </component>
+</project>
